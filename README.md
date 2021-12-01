@@ -1,7 +1,7 @@
 ![pepe](https://github.com/business-goose/business-goose/blob/main/1626037123358.jpg)
 <center>
   <h1>Programming Languages<h1>
-  <ul>
+  <ul style="font-size: small;">
     <li>JavaScript/Node.JS</li>
     <li>PHP</li>
     <li>Java</li>
