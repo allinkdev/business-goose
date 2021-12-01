@@ -1,5 +1,5 @@
 ![pepe](https://github.com/business-goose/business-goose/blob/main/1626037123358.jpg)
-<p>Programming Languages<p>
+<h3>Programming Languages<h3>
 <ul>
   <li>JavaScript/Node.JS</li>
   <li>PHP</li>
