@@ -1,4 +1,4 @@
-![pepe](https://github.com/business-goose/business-goose/blob/main/1626037123358.jpg)
+<h1>Business-Goose</h1>
 <h3>Programming Languages<h3>
 <ul>
   <li>JavaScript/Node.JS</li>
