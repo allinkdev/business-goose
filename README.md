@@ -1,4 +1,4 @@
-<h1>My Portfolio</h1>
+<h1>:trollface: My Portfolio :trollface:</h1>
 <h3>Programming Languages<h3>
 <ul>
   <li>JavaScript/Node.JS</li>
