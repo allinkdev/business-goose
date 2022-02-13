@@ -10,3 +10,4 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+[![trophy](https://github-profile-trophy.vercel.app/?username=business-goose)](https://github.com/ryo-ma/github-profile-trophy)
