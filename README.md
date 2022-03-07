@@ -2,7 +2,7 @@
 [Kaboom's Extras plugin]: https://github.com/kaboomserver/extras
 [Kaboom's iControlU plugin]: https://github.com/kaboomserver/icontrolu
 [Kaboom's Configuration]: https://github.com/kaboomserver/server
-[Kaboom's Weapons]: https://github.com/kaboomserver/weapons
+[Kaboom's Weapons plugin]: https://github.com/kaboomserver/weapons
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=business-goose)](https://github.com/ryo-ma/github-profile-trophy)
 
