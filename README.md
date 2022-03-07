@@ -1,18 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=business-goose)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1>:trollface: My Portfolio :trollface:</h1>
-<h3>Programming Languages<h3>
-<ul>
-  <li>JavaScript/Node.JS</li>
-  <li>PHP</li>
-  <li>Java</li>
-  <li>C#</li>
-  <li>Python</li>
-  <li>RLua</li>
-  <li>HTML</li>
-  <li>CSS</li>
-<ul>
-<ul>
 
 [![c7.pm](https://c7.pm/img/c7pm.gif)](https://c7.pm)
 ![](https://c7.pm/img/toast.png)
@@ -730,3 +717,16 @@
 ![](https://anlucas.neocities.org/zd_internet_click_here.gif)
 ![](https://anlucas.neocities.org/zxcert.png)
 ![](https://anlucas.neocities.org/zxsoftware.gif)
+
+<h1>:trollface: My Portfolio :trollface:</h1>
+<h3>Programming Languages<h3>
+<ul>
+  <li>JavaScript/Node.JS</li>
+  <li>PHP</li>
+  <li>Java</li>
+  <li>C#</li>
+  <li>Python</li>
+  <li>RLua</li>
+  <li>HTML</li>
+  <li>CSS</li>
+<ul>
