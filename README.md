@@ -8,4 +8,4 @@ Hey there! I'm Allink, and I like to code. My most notable projects are DeviousM
 
 I'm most fluent in Java and Javascript, but I also code in Golang and C# when I feel they're more useful.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=business-goose)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=business-goose)](https://github.com/ryo-ma/github-profile-trophy) -->
