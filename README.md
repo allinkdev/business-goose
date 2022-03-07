@@ -12,10 +12,7 @@
   <li>HTML</li>
   <li>CSS</li>
 <ul>
-
-
-# Badges
-  
+<ul>
 
 [![c7.pm](https://c7.pm/img/c7pm.gif)](https://c7.pm)
 ![](https://c7.pm/img/toast.png)
